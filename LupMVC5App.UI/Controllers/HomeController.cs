@@ -7,6 +7,7 @@ namespace LupMVC5App.UI.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            int a = 10;
             return View();
         }
     }
