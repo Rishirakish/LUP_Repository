@@ -8,7 +8,7 @@ namespace LupMVC5App.UI.Controllers
         public ActionResult Index()
         {
             int a = 10;
-            return View();
+            return View("Index");
         }
     }
 }
