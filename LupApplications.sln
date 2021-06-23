@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatastructuresAndDesignPatterns", "DatastructuresAndDesignPatterns\DatastructuresAndDesignPatterns.csproj", "{45E5CD71-FDF1-4761-98B4-95AF45128D81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAndDesignPatterns", "DatastructuresAndDesignPatterns\DataStructuresAndDesignPatterns.csproj", "{45E5CD71-FDF1-4761-98B4-95AF45128D81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
